@@ -6,3 +6,7 @@
 ##Features:
 * age
 * Gender
+* Smoker
+* BMI
+*Region
+*Children
