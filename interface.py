@@ -13,7 +13,7 @@ def aabb():
 def prediction():
     if request.method == 'POST':
         data = request.form
-        
+        print(data)
         print('data :',data)
 
         med_ins = MedicalInsurence(data)
